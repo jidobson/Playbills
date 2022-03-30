@@ -1,0 +1,210 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "A collection of playbills from Covent Garden Theatre 1798-1800",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[A selection of playbills from the Covent Garden Theatre 1798-1800, featuring Votary of Wealth, The Royal Oak, Ramah Droog, Lover's Vows and The Deaf Lover]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/4.0/",
+  "attribution" : "[The British Library]",
+  "sequences" : [ {
+    "@id" : "http://a3df0075-3051-4196-8cde-6efcb5ce46f6",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "viewingDirection" : "left-to-right",
+      "viewingHint" : "paged",
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://d6094de9-2c72-443d-b69f-237d791c6ba7",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4735,
+      "width" : 2905,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8f3a7aa7-5f83-4641-850c-db1ef0a965dc",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000007/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000007",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 4735,
+          "width" : 2905
+        },
+        "on" : "http://d6094de9-2c72-443d-b69f-237d791c6ba7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://801edfd0-ddf8-4e98-8403-ef1fde583ed6",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4735,
+      "width" : 2928,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f8b86926-ce39-42cb-9d64-eef494e6ff7f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000008/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000008",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 4735,
+          "width" : 2928
+        },
+        "on" : "http://801edfd0-ddf8-4e98-8403-ef1fde583ed6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8fee8818-ae43-4151-acc0-4f02c242b0f8",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4735,
+      "width" : 2928,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://67a7dde1-542b-4db8-a570-5174b1c7a0f8",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x00000a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x00000a",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 4735,
+          "width" : 2928
+        },
+        "on" : "http://8fee8818-ae43-4151-acc0-4f02c242b0f8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9b0672d2-bc7b-4714-afb5-fa8f39810202",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4735,
+      "width" : 2905,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3d7fd4fa-6efd-409d-8c06-8b98006935a6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x00000d/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x00000d",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 4735,
+          "width" : 2905
+        },
+        "on" : "http://9b0672d2-bc7b-4714-afb5-fa8f39810202"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1e8dc210-5379-4d08-a616-49edfab3cce7",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4735,
+      "width" : 2905,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://79efeefb-ae03-4887-9f1d-8c6cc2f8108f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000014/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000014",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 4735,
+          "width" : 2905
+        },
+        "on" : "http://1e8dc210-5379-4d08-a616-49edfab3cce7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cdf8a10a-ef57-47dd-ae62-e8fa89a32521",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 4735,
+      "width" : 2905,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://123fc4a4-9bea-4ed8-a465-48c2cae76e1b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000018/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://api.bl.uk/image/iiif/ark:/81055/vdc_100022588794.0x000018",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "qualities" : [ "gray", "color", "bitonal" ],
+              "supports" : [ "rotationArbitrary", "mirroring", "regionSquare", "profileLinkHeader" ]
+            } ]
+          },
+          "height" : 4735,
+          "width" : 2905
+        },
+        "on" : "http://cdf8a10a-ef57-47dd-ae62-e8fa89a32521"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/intro" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/intro",
+    "@type" : "sc:Range",
+    "label" : "Introduction",
+    "canvases" : [ "http://d6094de9-2c72-443d-b69f-237d791c6ba7" ]
+  } ]
+}
