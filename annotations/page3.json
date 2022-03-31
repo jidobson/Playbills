@@ -5,7 +5,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "The Deaf Lover",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>The Deaf Lover</p>"
+      "chars" : "<p>Frederick Pilon</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
@@ -38,7 +38,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "Lover's Vows",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Lover's Vows</p>"
+      "chars" : "<p>Mrs Inchbald</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
