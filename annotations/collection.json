@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://jidobson.github.io/Playbills/annotations/a48b99a0d1d14665980741fcb6b5e5f4.json", "https://jidobson.github.io/Playbills/annotations/a638748c43f4a3784350ab90279ebe34.json", "https://jidobson.github.io/Playbills/annotations/d2580bdc97e370782ec544bb85aa7d75.json", "https://jidobson.github.io/Playbills/annotations/75c149cbdf682943dbb019c9762430a9.json", "https://jidobson.github.io/Playbills/annotations/0117528e158601dc88e109b1f6603317.json" ],
+  "otherContent" : [ "https://jidobson.github.io/Playbills/annotations/a48b99a0d1d14665980741fcb6b5e5f4.json", "https://jidobson.github.io/Playbills/annotations/a638748c43f4a3784350ab90279ebe34.json", "https://jidobson.github.io/Playbills/annotations/d2580bdc97e370782ec544bb85aa7d75.json", "https://jidobson.github.io/Playbills/annotations/75c149cbdf682943dbb019c9762430a9.json", "https://jidobson.github.io/Playbills/annotations/0117528e158601dc88e109b1f6603317.json", "https://jidobson.github.io/Playbills/annotations/9a524deafab5615f3cbc5a26bf648e64.json" ],
   "@id" : "https://jidobson.github.io/Playbills/annotations/collection.json",
   "label" : "All annotations loaded in jidobson/Playbills project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
