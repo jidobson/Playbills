@@ -1,0 +1,105 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://en.wikipedia.org/wiki/William_Shakespeare\" target=\"_blank\" rel=\"noopener\">William Shakespeare",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://en.wikipedia.org/wiki/William_Shakespeare\" target=\"_blank\" rel=\"noopener\">William Shakespeare</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T10:23:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648722209195",
+    "dcterms:modified" : "2022-03-31T15:20:02",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=535,1918,1889,278"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M534.86713,1918.48951h944.68881v0h944.68881v138.9662v138.9662h-944.68881h-944.68881v-138.9662z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_85555f26-3f56-44d8-99cc-111a2c1e1e55\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"37.97868\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1e8dc210-5379-4d08-a616-49edfab3cce7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://londonstagedatabase.uoregon.edu/event.php?id=51873\" target=\"_blank\" rel=\"noopener\">Event Information",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://londonstagedatabase.uoregon.edu/event.php?id=51873\" target=\"_blank\" rel=\"noopener\">Event Information</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T15:21:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648740102059",
+    "dcterms:modified" : "2022-03-31T15:21:42",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=695,1793,1658,199"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M694.83059,1793.44987h828.93531v0h828.93531v99.74458v99.74458h-828.93531h-828.93531v-99.74458z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8bd86266-be21-4e8e-be10-7951f9cc5f89\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1e8dc210-5379-4d08-a616-49edfab3cce7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://en.wikipedia.org/wiki/Macnamara_Morgan\" target=\"_blank\" rel=\"noopener\">Macnamara Morgan",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://en.wikipedia.org/wiki/Macnamara_Morgan\" target=\"_blank\" rel=\"noopener\">Macnamara Morgan</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T10:23:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648722229760",
+    "dcterms:modified" : "2022-03-31T15:19:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=689,3406,1696,190"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M689.38928,3405.76515h848.11247v0h848.11247v94.81702v94.81702h-848.11247h-848.11247v-94.81702z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_5cdbc002-4346-4075-9bc6-faea47e5673b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"31.6489\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1e8dc210-5379-4d08-a616-49edfab3cce7"
+    } ]
+  } ],
+  "@id" : "https://jidobson.github.io/Playbills/annotations/page5.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
