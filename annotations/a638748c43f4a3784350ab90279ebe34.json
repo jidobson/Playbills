@@ -1,0 +1,72 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Romeo and Juliet",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Romeo and Juliet</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T10:23:29",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648722209195",
+    "dcterms:modified" : "2022-03-31T10:23:29",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=535,1918,1889,278"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M534.86713,1918.48951h944.68881v0h944.68881v138.9662v138.9662h-944.68881h-944.68881v-138.9662z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_85555f26-3f56-44d8-99cc-111a2c1e1e55\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1e8dc210-5379-4d08-a616-49edfab3cce7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lover's Quarrels",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lover's Quarrels</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T10:23:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648722229760",
+    "dcterms:modified" : "2022-03-31T10:23:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=689,3406,1696,190"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M689.38928,3405.76515h848.11247v0h848.11247v94.81702v94.81702h-848.11247h-848.11247v-94.81702z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5cdbc002-4346-4075-9bc6-faea47e5673b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1e8dc210-5379-4d08-a616-49edfab3cce7"
+    } ]
+  } ],
+  "@id" : "https://jidobson.github.io/Playbills/annotations/a638748c43f4a3784350ab90279ebe34.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
