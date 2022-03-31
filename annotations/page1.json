@@ -1,0 +1,171 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://en.wikipedia.org/wiki/Joseph_George_Holman\" target=\"_blank\" rel=\"noopener\">Joseph George Holman",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://en.wikipedia.org/wiki/Joseph_George_Holman\" target=\"_blank\" rel=\"noopener\">Joseph George Holman</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T10:20:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648722003245",
+    "dcterms:modified" : "2022-03-31T15:28:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=371,446,1829,186"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M371.29772,446.23686h914.64284v0h914.64284v92.97747v92.97747h-914.64284h-914.64284v-92.97747z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_7cfb5139-bd80-4021-a427-1bba3c388b4a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"19.78056\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d6094de9-2c72-443d-b69f-237d791c6ba7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://en.wikipedia.org/wiki/Thomas_John_Dibdin\" target=\"_blank\" rel=\"noopener\">Thomas John Dibdin",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://en.wikipedia.org/wiki/Thomas_John_Dibdin\" target=\"_blank\" rel=\"noopener\">Thomas John Dibdin</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T10:19:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648721988042",
+    "dcterms:modified" : "2022-03-31T14:41:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=433,1501,1756,235"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M432.61603,1500.91181h877.85185v0h877.85185v117.50479v117.50479h-877.85185h-877.85185v-117.50479z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_cfabfa46-5efe-41ea-8a84-768362299592\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"29.53222\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d6094de9-2c72-443d-b69f-237d791c6ba7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://en.wikisource.org/wiki/A_Dictionary_of_Music_and_Musicians/Attwood,_Thomas\" target=\"_blank\" rel=\"noopener\">Thomas Attwood",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://en.wikisource.org/wiki/A_Dictionary_of_Music_and_Musicians/Attwood,_Thomas\" target=\"_blank\" rel=\"noopener\">Thomas Attwood</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T14:43:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648737807769",
+    "dcterms:modified" : "2022-03-31T14:43:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1381,1818,478,68"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1380.77114,1818.38297h238.89848v0h238.89848v33.81358v33.81358h-238.89848h-238.89848v-33.81358z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ad5c60fc-d9d3-423d-91a2-efb1d5b7efa3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d6094de9-2c72-443d-b69f-237d791c6ba7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100045187591.0x000001#?c=0&amp;m=0&amp;s=0&amp;cv=0&amp;xywh=-1514%2C-138%2C4553%2C2752\" target=\"_blank\" rel=\"noopener\">Song Book",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100045187591.0x000001#?c=0&amp;m=0&amp;s=0&amp;cv=0&amp;xywh=-1514%2C-138%2C4553%2C2752\" target=\"_blank\" rel=\"noopener\">Song Book</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T15:26:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648740410472",
+    "dcterms:modified" : "2022-03-31T15:26:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=780,1815,586,58"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M779.57053,1814.91657h292.76333v0h292.76333v29.02247v29.02247h-292.76333h-292.76333v-29.02247z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_054ce3a9-5ef2-47e1-9cbf-337610f0a45f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d6094de9-2c72-443d-b69f-237d791c6ba7"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100026137348.0x000001#?c=0&amp;m=0&amp;s=0&amp;cv=20&amp;xywh=-589%2C-65%2C4524%2C2734\" target=\"_blank\" rel=\"noopener\">Play Text",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"http://access.bl.uk/item/viewer/ark:/81055/vdc_100026137348.0x000001#?c=0&amp;m=0&amp;s=0&amp;cv=20&amp;xywh=-589%2C-65%2C4524%2C2734\" target=\"_blank\" rel=\"noopener\">Play Text</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-03-31T15:29:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648740574803",
+    "dcterms:modified" : "2022-03-31T15:29:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://jidobson.github.io/Playbills/manifests/2ndmanifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=400,684,1855,401"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M400.44304,684.12764h927.38977v0h927.38977v200.45403v200.45403h-927.38977h-927.38977v-200.45403z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9cb1b916-13aa-46c8-bb34-7d0dc596d906\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d6094de9-2c72-443d-b69f-237d791c6ba7"
+    } ]
+  } ],
+  "@id" : "https://jidobson.github.io/Playbills/annotations/page1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
