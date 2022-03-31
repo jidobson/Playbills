@@ -5,7 +5,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "Votary of Wealth",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Votary of Wealth</p>"
+      "chars" : "<p>Joseph George Holman</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
@@ -38,7 +38,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "The Magic Oak",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>The Magic Oak</p>"
+      "chars" : "<p>Mr Attwood</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
