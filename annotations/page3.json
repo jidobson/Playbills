@@ -71,7 +71,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "Mouth of the Nile",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Mouth of the Nile</p>"
+      "chars" : "<p>T. Dibdin</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
