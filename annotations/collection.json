@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ ],
+  "otherContent" : [ "https://jidobson.github.io/Playbills/annotations/page1.json" ],
   "@id" : "https://jidobson.github.io/Playbills/annotations/collection.json",
   "label" : "All annotations loaded in jidobson/Playbills project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
