@@ -5,7 +5,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "Intriguing Chambermaid",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Intriguing Chambermaid</p>"
+      "chars" : "<p>Henry Fielding</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
@@ -38,7 +38,7 @@
       "http://dev.llgc.org.uk/sas/full_text" : "Ramah Droog",
       "@type" : "dctypes:Text",
       "format" : "text/html",
-      "chars" : "<p>Ramah Droog</p>"
+      "chars" : "<p>James Cobb</p>"
     } ],
     "@type" : "oa:Annotation",
     "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/102679810",
